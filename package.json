@@ -1,0 +1,43 @@
+{
+  "name": "basic-login-bar",
+  "version": "1.1.5",
+  "description": "Basic Bar with Title and Login buttons, Social Media Login incl.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "app-root-path": "^1.0.0",
+    "async": "^1.5.2",
+    "connect-flash": "~0.1.1",
+    "express": "~4.0.0",
+    "nodemailer": "^2.0.0"
+  },
+  "gitHead": "7db33fab2c8f5796411a7dc9141bcb34be26a401",
+  "_id": "basic-login-bar@1.1.5",
+  "_shasum": "03bdf4e187db303a63e77943fa4f7def2f614173",
+  "_from": "basic-login-bar@1.1.5",
+  "_npmVersion": "2.14.7",
+  "_nodeVersion": "4.2.2",
+  "_npmUser": {
+    "name": "vtange",
+    "email": "victortang1992@gmail.com"
+  },
+  "dist": {
+    "shasum": "03bdf4e187db303a63e77943fa4f7def2f614173",
+    "tarball": "https://registry.npmjs.org/basic-login-bar/-/basic-login-bar-1.1.5.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "vtange",
+      "email": "victortang1992@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/basic-login-bar-1.1.5.tgz_1460580862465_0.5054939184337854"
+  },
+  "directories": {},
+  "_resolved": "http://registry.npmjs.org/basic-login-bar/-/basic-login-bar-1.1.5.tgz",
+  "readme": "ERROR: No README data found!"
+}
