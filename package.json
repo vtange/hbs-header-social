@@ -1,11 +1,10 @@
 {
   "name": "hbs-header-social",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "handlebars barebones header, social-media-login addon",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
